@@ -59,7 +59,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- This project is the final capstone project for the HTML/CSS curriculum at Microverse made based on the design template made by [Mohammed Awad](https://www.behance.net/gallery/24796463/ZATTIX)
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
